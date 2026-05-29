@@ -14,7 +14,7 @@ I'm an aspiring software developer and B.Tech student in Information Technology 
 - 🌱 **Learning:** Advanced React patterns, Cloud technologies, and ML algorithms
 - 💼 **Experience:** Data Analytics Intern at Deloitte, Web Development projects
 - 🎯 **Goal:** To contribute to impactful projects and grow as a full-stack developer
-- 📍 **Location:** Aurangabad, India
+- 📍 **Location:** Mumbai, India
 - ✉️ **Contact:** mohitmane226@gmail.com / mohitmane916@gmail.com
 
 ## 🛠️ Tech Stack
